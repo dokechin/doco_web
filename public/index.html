@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>mvc client sample</title>
+    <script type="text/javascript" src="js/vendor/backbone.js"></script>
+    <script type="text/javascript" src="js/doco/doco.js"></script>
+    <script type="text/javascript" src="js/doco/web/root/router.js"></script>
+    <script type="text/javascript" src="js/doco/web/root/view/addressinputview.js"></script>
+    <script type="text/javascript" src="js/doco/web/root/view/addressview.js"></script>
+    <script type="text/javascript" src="js/doco/model/address.js"></script>
+  </head>
+  <body>
+    <div id="addressInput">
+      <form method="post" onsubmit="return false;">
+        <input type="text" id ="address"/>
+        <input type="submit" value="search" />
+      </form>
+    </div>
+    <div id ="address"></div>
+    <script type="text/javascript">
+      var router = new Doco.Web.Root.Router();
+      Backbone.history.start();
+    </script>
+  </body>
+</html>
+  

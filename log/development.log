@@ -1,0 +1,85 @@
+[Sun Jul 28 10:44:37 2013] [info] Listening at "http://*:3000".
+[Sun Jul 28 10:44:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jul 28 10:44:45 2013] [debug] GET "/".
+[Sun Jul 28 10:44:45 2013] [debug] Routing to controller "Doco::Web::Example" and action "welcome".
+[Sun Jul 28 10:44:45 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sun Jul 28 10:44:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jul 28 10:44:45 2013] [debug] 200 OK (0.101551s, 9.847/s).
+[Sun Jul 28 10:46:23 2013] [info] Listening at "http://*:3000".
+[Sun Jul 28 10:48:22 2013] [info] Listening at "http://*:3000".
+[Sun Jul 28 10:49:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jul 28 11:10:07 2013] [debug] GET "/".
+[Sun Jul 28 11:10:07 2013] [debug] Routing to controller "Doco::Web::Example" and action "welcome".
+[Sun Jul 28 11:10:07 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sun Jul 28 11:10:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jul 28 11:10:07 2013] [debug] 200 OK (0.041552s, 24.066/s).
+[Sun Jul 28 13:23:51 2013] [info] Listening at "http://*:3000".
+[Sun Jul 28 13:24:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jul 28 13:25:12 2013] [info] Listening at "http://*:3000".
+[Sun Jul 28 13:25:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jul 28 13:38:56 2013] [debug] GET "/".
+[Sun Jul 28 13:38:56 2013] [debug] Routing to controller "Doco::Web::Example" and action "welcome".
+[Sun Jul 28 13:38:56 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sun Jul 28 13:38:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jul 28 13:38:56 2013] [debug] 200 OK (0.053650s, 18.639/s).
+[Sun Jul 28 13:39:00 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:39:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:39:00 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:39:00 2013] [debug] Rendering inline template.
+[Sun Jul 28 13:39:00 2013] [debug] Rendering inline template.
+[Sun Jul 28 13:39:00 2013] [debug] 404 Not Found (0.120114s, 8.325/s).
+[Sun Jul 28 13:39:13 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:39:13 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:39:13 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:39:13 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:39:13 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:39:13 2013] [debug] 404 Not Found (0.041966s, 23.829/s).
+[Sun Jul 28 13:39:14 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:39:14 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:39:14 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:39:14 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:39:14 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:39:14 2013] [debug] 404 Not Found (0.035149s, 28.450/s).
+[Sun Jul 28 13:39:24 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:39:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:39:24 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:39:24 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:39:24 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:39:24 2013] [debug] 404 Not Found (0.049836s, 20.066/s).
+[Sun Jul 28 13:40:37 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:40:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:40:37 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:40:37 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:40:37 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:40:37 2013] [debug] 404 Not Found (0.046002s, 21.738/s).
+[Sun Jul 28 13:40:39 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:40:39 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:40:39 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:40:39 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:40:39 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:40:39 2013] [debug] 404 Not Found (0.033016s, 30.288/s).
+[Sun Jul 28 13:40:41 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:40:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:40:41 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:40:41 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:40:41 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:40:41 2013] [debug] 404 Not Found (0.033286s, 30.043/s).
+[Sun Jul 28 13:41:55 2013] [debug] GET "/".
+[Sun Jul 28 13:41:55 2013] [debug] Routing to controller "Doco::Web::Example" and action "welcome".
+[Sun Jul 28 13:41:55 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sun Jul 28 13:41:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Jul 28 13:41:55 2013] [debug] 200 OK (0.010000s, 100.000/s).
+[Sun Jul 28 13:41:58 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:41:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:41:59 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:41:59 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:41:59 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:41:59 2013] [debug] 404 Not Found (0.046046s, 21.717/s).
+[Sun Jul 28 13:42:12 2013] [debug] GET "/js/doco.js".
+[Sun Jul 28 13:42:12 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jul 28 13:42:12 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jul 28 13:42:12 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:42:12 2013] [debug] Rendering cached inline template.
+[Sun Jul 28 13:42:12 2013] [debug] 404 Not Found (0.056451s, 17.714/s).
+[Sun Jul 28 13:48:26 2013] [info] Listening at "http://*:3000".
+[Sun Jul 28 13:48:26 2013] [debug] Your secret passphrase needs to be changed!!!
